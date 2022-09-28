@@ -1,0 +1,7 @@
+public enum Fase {
+    ANALISIS,
+    DISENO,
+    IMPLEMENTACION,
+    DESPLIEGUE,
+    MANTENIMIENTO
+}
